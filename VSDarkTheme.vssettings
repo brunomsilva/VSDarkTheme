@@ -11,7 +11,7 @@
 					<Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x000F0F0F" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x00434134" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008C2E26" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00000000" BoldFont="No"/>
 						</Items>
@@ -70,7 +70,7 @@
 							<Item Name="outlining.verticalrule" Foreground="0x006F5C25" Background="0x02000000" BoldFont="No"/>
 							<Item Name="urlformat" Foreground="0x00F9DA99" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Track Changes before save" Foreground="0x02000000" Background="0x0000C1D7" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x00434134" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008C2E26" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Keyword" Foreground="0x0022CDFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Comment" Foreground="0x007B7466" Background="0x02000000" BoldFont="No"/>
