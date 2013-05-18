@@ -18,6 +18,8 @@
 					</Category>
 					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="dotCover Covered Code Highlighter (Dark scheme)" Foreground="0x01000000" Background="0x00344D31" BoldFont="No"/>
+							<Item Name="dotCover Uncovered Code Highlighter (Dark scheme)" Foreground="0x01000000" Background="0x00212149" BoldFont="No"/>
 							<Item Name="ReSharper Current Line Highlight" Foreground="0x02000000" Background="0x003E3C32" BoldFont="No"/>
 							<Item Name="ReSharper Error Highlighting" Foreground="0x00FFFFFF" Background="0x000000FF" BoldFont="Yes"/>
 							<Item Name="ReSharper Underlined Error Highlighting" Foreground="0x000000FF" Background="0x00000000" BoldFont="No"/>
