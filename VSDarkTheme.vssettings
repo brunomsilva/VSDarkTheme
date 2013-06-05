@@ -11,7 +11,7 @@
 					<Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x000F0F0F" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008C2E26" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008B4F49" BoldFont="Yes"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00000000" BoldFont="No"/>
 						</Items>
@@ -20,7 +20,7 @@
 						<Items>
 							<Item Name="dotCover Covered Code Highlighter (Dark scheme)" Foreground="0x01000000" Background="0x00344D31" BoldFont="No"/>
 							<Item Name="dotCover Uncovered Code Highlighter (Dark scheme)" Foreground="0x01000000" Background="0x00212149" BoldFont="No"/>
-							<Item Name="ReSharper Current Line Highlight" Foreground="0x02000000" Background="0x003E3C32" BoldFont="No"/>
+							<Item Name="ReSharper Current Line Highlight" Foreground="0x02000000" Background="0x001E1D17" BoldFont="No"/>
 							<Item Name="ReSharper Error Highlighting" Foreground="0x00FFFFFF" Background="0x000000FF" BoldFont="Yes"/>
 							<Item Name="ReSharper Underlined Error Highlighting" Foreground="0x000000FF" Background="0x00000000" BoldFont="No"/>
 							<Item Name="ReSharper Warning" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
@@ -53,6 +53,8 @@
 							<Item Name="ReSharper Interface Identifier" Foreground="0x00FDC566" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Delegate Identifier" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Type Parameter Identifier" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Knockout Region" Foreground="0x01000000" Background="0x001E0D15" BoldFont="No"/>
+							<Item Name="HtmlClientTemplateValueFormatDefinition" Foreground="0x00B5F4F4" Background="0x01000001" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x004080FF" Background="0x00425535" BoldFont="No"/>
 							<Item Name="XML Doc Comment" Foreground="0x008AA399" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Doc Tag" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
@@ -72,7 +74,7 @@
 							<Item Name="outlining.verticalrule" Foreground="0x006F5C25" Background="0x02000000" BoldFont="No"/>
 							<Item Name="urlformat" Foreground="0x00F9DA99" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Track Changes before save" Foreground="0x02000000" Background="0x0000C1D7" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008C2E26" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x008B4F49" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Keyword" Foreground="0x0022CDFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Comment" Foreground="0x007B7466" Background="0x02000000" BoldFont="No"/>
@@ -90,6 +92,7 @@
 							<Item Name="HTML Tag Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Razor Code" Foreground="0x02000000" Background="0x00000000" BoldFont="No"/>
 							<Item Name="vsvim_blockcaret" Foreground="0x00FFFFFF" Background="0x00404080" BoldFont="No"/>
+							<Item Name="vsvim_commandmargin" Foreground="0x00FFFFFF" Background="0x00000000" BoldFont="No"/>
 							<Item Name="vsvim_incrementalsearch" Foreground="0x00008080" Background="0x0000A49B" BoldFont="No"/>
 							<Item Name="vsvim_highlightsearch" Foreground="0x0000FFFF" Background="0x00353535" BoldFont="Yes"/>
 						</Items>
